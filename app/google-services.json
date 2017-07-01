@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "424386713810",
+    "firebase_url": "https://codlicrealestate.firebaseio.com",
+    "project_id": "codlicrealestate",
+    "storage_bucket": "codlicrealestate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424386713810:android:5f9893c3598944ba",
+        "android_client_info": {
+          "package_name": "com.example.ben.codlic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424386713810-tsm5f2vqt4mefvu9ualirg75u89tgenj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ben.codlic",
+            "certificate_hash": "a6958466be1cd7cae816c20ddfd6639d20e488f3"
+          }
+        },
+        {
+          "client_id": "424386713810-mdrhmjuo71deei4kcdhsbe0fn8vm2flk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVChkfcjWxgPrIC0ZbbI8x6gy124BMs5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424386713810-mdrhmjuo71deei4kcdhsbe0fn8vm2flk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
